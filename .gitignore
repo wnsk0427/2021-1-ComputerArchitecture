@@ -15,3 +15,5 @@ runfile
 
 *.mp4
 *.docx
+
+backup/
