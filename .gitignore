@@ -1,0 +1,17 @@
+
+Debug/
+x64/
+.vs/
+
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+*.s
+*.o
+*.gch
+runfile
+
+*.mp4
+*.docx

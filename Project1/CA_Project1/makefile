@@ -10,4 +10,5 @@ format.o : format.h format.cpp
 clean :
 	rm main.o
 	rm format.o
+	rm format.h.gch
 	rm runfile
